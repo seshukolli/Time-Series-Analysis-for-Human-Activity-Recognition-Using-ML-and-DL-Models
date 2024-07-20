@@ -19,4 +19,5 @@ The LSTM models performed exceptionally well, even without feature engineering, 
 Results and Conclusion:
 
 Machine Learning Models: Logistic Regression, Linear SVC, and Kernel SVM performed well with the pre-engineered features, achieving accuracies around 95-96%.
+
 Deep Learning Models: The two-layer LSTM model with hyperparameter tuning achieved the highest accuracy of 91%. The LSTM models were particularly effective in capturing the complex patterns in the raw sensor data.
