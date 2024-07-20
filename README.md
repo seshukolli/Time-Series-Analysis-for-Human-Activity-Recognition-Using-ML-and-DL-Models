@@ -21,3 +21,6 @@ Results and Conclusion:
 Machine Learning Models: Logistic Regression, Linear SVC, and Kernel SVM performed well with the pre-engineered features, achieving accuracies around 95-96%.
 
 Deep Learning Models: The two-layer LSTM model with hyperparameter tuning achieved the highest accuracy of 91%. The LSTM models were particularly effective in capturing the complex patterns in the raw sensor data.
+
+Data Set:
+HAR Data_Set : https://archive.ics.uci.edu/ml/datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29
